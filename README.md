@@ -7,3 +7,4 @@
 # Source
     - Number
     - String
+    - Array
