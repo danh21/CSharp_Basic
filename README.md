@@ -5,4 +5,5 @@
     Microsoft Visual Studio (or other IDEs are able to compile C#).
 
 # Source
-    - Number: problems related to array.
+    - Number
+    - String
