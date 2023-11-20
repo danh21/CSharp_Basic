@@ -1,11 +1,10 @@
 # Description
     Small C# programs handle different tasks by conceptual data types.
+    Create applications for user.
 
 # Software
-    Microsoft Visual Studio (or other IDEs are able to compile C#).
+    Microsoft Visual Studio
 
 # Source
-    - Number
-    - String
-    - Array
-    - Array2D
+    - CSharp_fundamentals: investigate about data types as number, string, array,... (console is output).
+    

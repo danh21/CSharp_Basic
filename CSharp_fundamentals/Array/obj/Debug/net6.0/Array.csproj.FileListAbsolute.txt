@@ -1,0 +1,15 @@
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\bin\Debug\net6.0\Array.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\bin\Debug\net6.0\Array.deps.json
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\bin\Debug\net6.0\Array.dll
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\bin\Debug\net6.0\Array.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.dll
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\refint\Array.dll
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_fundamentals\Array\obj\Debug\net6.0\ref\Array.dll
