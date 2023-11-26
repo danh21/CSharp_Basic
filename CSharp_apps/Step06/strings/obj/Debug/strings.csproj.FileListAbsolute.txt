@@ -1,0 +1,10 @@
+D:\cd\C#\Project\CSharpProjects\Step06\strings\bin\Debug\strings.exe.config
+D:\cd\C#\Project\CSharpProjects\Step06\strings\bin\Debug\strings.exe
+D:\cd\C#\Project\CSharpProjects\Step06\strings\bin\Debug\strings.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.exe
+D:\cd\C#\Project\CSharpProjects\Step06\strings\obj\Debug\strings.pdb

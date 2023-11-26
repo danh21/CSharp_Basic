@@ -1,0 +1,8 @@
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.pdb
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csprojResolveAssemblyReference.cache
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.Form1.resources
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.Properties.Resources.resources
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.GenerateResource.Cache
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.exe
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.pdb

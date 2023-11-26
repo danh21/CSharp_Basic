@@ -1,0 +1,20 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\bin\Debug\ClassesAndMore.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\bin\Debug\ClassesAndMore.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.Properties.Resources.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\bin\Debug\ClassesAndMore.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\bin\Debug\ClassesAndMore.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\bin\Debug\ClassesAndMore.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.Properties.Resources.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step08\ClassesAndMore\ClassesAndMore\obj\x86\Debug\ClassesAndMore.pdb

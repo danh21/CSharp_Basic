@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\bin\Debug\Methods.exe.config
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\bin\Debug\Methods.exe
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\bin\Debug\Methods.pdb
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.exe
+D:\cd\C#\Project\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.pdb

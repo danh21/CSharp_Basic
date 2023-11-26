@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.pdb
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe
+D:\cd\C#\Project\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.pdb

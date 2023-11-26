@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\bin\Debug\GameClasses.exe.config
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\bin\Debug\GameClasses.exe
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\bin\Debug\GameClasses.pdb
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.exe
+D:\cd\C#\Project\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.pdb

@@ -1,0 +1,19 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.Properties.Resources.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.Properties.Resources.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.pdb

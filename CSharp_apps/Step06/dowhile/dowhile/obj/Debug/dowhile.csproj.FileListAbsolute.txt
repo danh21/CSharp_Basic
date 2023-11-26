@@ -1,0 +1,8 @@
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\bin\Debug\dowhile.exe.config
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\bin\Debug\dowhile.exe
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\bin\Debug\dowhile.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.exe
+D:\cd\C#\Project\CSharpProjects\Step06\dowhile\dowhile\obj\Debug\dowhile.pdb

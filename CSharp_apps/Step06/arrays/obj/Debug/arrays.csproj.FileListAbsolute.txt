@@ -1,0 +1,16 @@
+C:\CSharpProjects\Step06\arrays\bin\Debug\arrays.exe
+C:\CSharpProjects\Step06\arrays\bin\Debug\arrays.pdb
+C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.Form1.resources
+C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.GenerateResource.Cache
+C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.exe
+C:\CSharpProjects\Step06\arrays\obj\Debug\arrays.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\bin\Debug\arrays.exe.config
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\bin\Debug\arrays.exe
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\bin\Debug\arrays.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.exe
+D:\cd\C#\Project\CSharpProjects\Step06\arrays\obj\Debug\arrays.pdb

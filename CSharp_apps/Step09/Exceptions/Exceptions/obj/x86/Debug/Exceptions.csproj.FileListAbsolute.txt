@@ -1,0 +1,20 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.Properties.Resources.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.Properties.Resources.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.pdb

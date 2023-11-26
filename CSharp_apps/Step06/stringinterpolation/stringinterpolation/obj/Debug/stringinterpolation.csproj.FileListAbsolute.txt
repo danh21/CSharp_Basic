@@ -1,0 +1,8 @@
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\bin\Debug\stringinterpolation.exe.config
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\bin\Debug\stringinterpolation.exe
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\bin\Debug\stringinterpolation.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.exe
+D:\cd\C#\Project\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.pdb

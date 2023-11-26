@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\bin\Debug\TaxCalc.exe.config
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\bin\Debug\TaxCalc.exe
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\bin\Debug\TaxCalc.pdb
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalcTest.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalcTest.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalc.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalc.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalcTest.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalcTest.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalc.exe
+D:\cd\C#\Project\CSharpProjects\Step02\TaxCalcTest\TaxCalc\obj\x86\Debug\TaxCalc.pdb

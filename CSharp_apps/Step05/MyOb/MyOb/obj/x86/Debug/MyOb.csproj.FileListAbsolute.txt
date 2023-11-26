@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\bin\Debug\MyOb.exe.config
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\bin\Debug\MyOb.exe
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\bin\Debug\MyOb.pdb
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.exe
+D:\cd\C#\Project\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.pdb

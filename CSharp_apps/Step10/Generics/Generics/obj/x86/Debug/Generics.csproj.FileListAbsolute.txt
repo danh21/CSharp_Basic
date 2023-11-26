@@ -1,0 +1,20 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.Properties.Resources.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\bin\Debug\Generics.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\bin\Debug\Generics.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\bin\Debug\Generics.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.Properties.Resources.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step10\Generics\Generics\obj\x86\Debug\Generics.pdb

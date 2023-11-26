@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\bin\Debug\ArithmeticOps.exe.config
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\bin\Debug\ArithmeticOps.exe
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\bin\Debug\ArithmeticOps.pdb
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.exe
+D:\cd\C#\Project\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.pdb

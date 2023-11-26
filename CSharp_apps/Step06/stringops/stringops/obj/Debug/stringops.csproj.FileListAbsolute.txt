@@ -1,0 +1,8 @@
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\bin\Debug\stringops.exe.config
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\bin\Debug\stringops.exe
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\bin\Debug\stringops.pdb
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.exe
+D:\cd\C#\Project\CSharpProjects\Step06\stringops\stringops\obj\Debug\stringops.pdb

@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\bin\Debug\Tests.exe.config
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\bin\Debug\Tests.exe
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\bin\Debug\Tests.pdb
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.exe
+D:\cd\C#\Project\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.pdb

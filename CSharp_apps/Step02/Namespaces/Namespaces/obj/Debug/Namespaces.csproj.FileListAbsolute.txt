@@ -1,0 +1,11 @@
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.Form1.resources
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+D:\cd\C#\Project\CSharpProjects\Step02\Namespaces\Namespaces\obj\Debug\Namespaces.pdb

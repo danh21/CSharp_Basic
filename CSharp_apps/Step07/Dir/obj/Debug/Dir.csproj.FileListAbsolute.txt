@@ -1,0 +1,18 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\bin\Debug\Dir.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\bin\Debug\Dir.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\obj\Debug\Dir.csproj.AssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\obj\Debug\Dir.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\obj\Debug\Dir.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\obj\Debug\Dir.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\Dir\obj\Debug\Dir.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\bin\Debug\Dir.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\bin\Debug\Dir.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\bin\Debug\Dir.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\Dir\obj\Debug\Dir.pdb

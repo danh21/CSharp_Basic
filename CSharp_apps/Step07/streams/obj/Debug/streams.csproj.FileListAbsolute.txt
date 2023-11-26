@@ -1,0 +1,26 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\bin\Debug\streams.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\bin\Debug\streams.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\obj\Debug\streams.csproj.AssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\obj\Debug\streams.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\obj\Debug\streams.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\obj\Debug\streams.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\obj\Debug\streams.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\streams\obj\Debug\streams.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\obj\Debug\streams.Form1.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\obj\Debug\streams.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\obj\Debug\streams.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\obj\Debug\streams.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\obj\Debug\streams.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\bin\Debug\streams.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\bin\Debug\streams.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\CSharpProjects\Step07\streams\obj\Debug\streams.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\bin\Debug\streams.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\bin\Debug\streams.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\bin\Debug\streams.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step07\streams\obj\Debug\streams.pdb
