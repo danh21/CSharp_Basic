@@ -1,0 +1,31 @@
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.AssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\MainWindow.g.cs
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\App.g.cs
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.lref
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\MainWindow.baml
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\AdventureGame.g.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\AdventureGame.Properties.Resources.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\MainWindow.g.cs
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\App.g.cs
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.lref
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\MainWindow.baml
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\AdventureGame.g.resources
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\AdventureGame.Properties.Resources.resources
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\WPFAdventureGame.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb

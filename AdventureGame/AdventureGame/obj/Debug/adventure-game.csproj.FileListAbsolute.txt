@@ -1,0 +1,25 @@
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\wombat.exe
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\wombat.pdb
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\game.MainForm.resources
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.GenerateResource.Cache
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\wombat.exe
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\wombat.pdb
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\adventure-game.csprojResolveAssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\bin\Debug\wombat.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\bin\Debug\wombat.pdb
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.AssemblyReference.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\game.MainForm.resources
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.GenerateResource.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.CoreCompileInputs.cache
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\wombat.exe
+C:\Users\danh.phan-cong\OneDrive - Ban Vien Corporation\Work\C#\AdventureGame\AdventureGame\obj\Debug\wombat.pdb
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\bin\Debug\wombat.exe.config
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\bin\Debug\wombat.exe
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\bin\Debug\wombat.pdb
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.SuggestedBindingRedirects.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\game.MainForm.resources
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\wombat.exe
+D:\cd\C#\Project\CSharp_Basic\AdventureGame\AdventureGame\obj\Debug\wombat.pdb

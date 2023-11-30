@@ -1,0 +1,28 @@
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\MainWindow.g.cs
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\App.g.cs
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.cache
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.lref
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\MainWindow.baml
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.g.resources
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.Properties.Resources.resources
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.GenerateResource.Cache
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\MainWindow.g.cs
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\App.g.cs
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.cache
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame_MarkupCompile.lref
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\MainWindow.baml
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.g.resources
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.Properties.Resources.resources
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.GenerateResource.Cache
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+E:\BitwiseCourses\COURSES\CSharpCourse - v2\SOURCE-CODE\CSharpProjects_v1.2\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
