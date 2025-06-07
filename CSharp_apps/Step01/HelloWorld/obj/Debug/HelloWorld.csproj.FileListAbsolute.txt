@@ -18,3 +18,13 @@ D:\cd\C#\Project\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.Ge
 D:\cd\C#\Project\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 D:\cd\C#\Project\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.exe
 D:\cd\C#\Project\CSharpProjects\Step01\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\bin\Debug\HelloWorld.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.exe
+D:\cd\C#\Project\CSharp_Basic\CSharp_apps\Step01\HelloWorld\obj\Debug\HelloWorld.pdb
