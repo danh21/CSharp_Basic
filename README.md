@@ -27,7 +27,14 @@
 ## ✨ Features
 
 - ✅ Manipulate form apps
-- ✅ fundamentals about data types, class, method,...
+- ✅ Investigate features of C#:
+  - Parameter: ref, out, params
+  - Statements: yield, try - catch, checked/unchecked, using
+- ✅ Multi-threading programming
+  - lock
+- ✅ OOP:
+  - inheritance, polymorphism
+  - static/instance methods
 
 ---
 
@@ -36,21 +43,25 @@
 ### Prerequisites
 
 - List software dependencies or system requirements here:
-  - C#
-  - Microsoft Visual Studio
+  - dotnet
+  - Microsoft Visual Studio (MSVS) / VSCode
+  - VSCode extension: C#, C# Dev kit, Code Runner
 
 ### Source
 
-- *.sln: solution workspace
-- Program.cs: main entry point for the application
-- Form*.cs: handle logic of GUI
-- Form*.Designer.cs: design GUI
+- *.sln: solution workspace for MSVS
+- *.cs: main entry point for the application
+- *.csproj: project file
 
 ### Usage
 
-- Open workspace by .sln file
-- In Solution Explorer, right-click to project, **Set as Startup Project**
-- Run app
+- Use Microsoft Visual Studio
+  - Open workspace by .sln file
+  - In Solution Explorer, right-click to project, **Set as Startup Project**
+  - Run app
+- Use VSCode
+  - Open *.cs file
+  - **Ctrl + Alt + N** to run
 
 ### Reference
 
