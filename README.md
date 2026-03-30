@@ -28,13 +28,19 @@
 
 - ✅ Manipulate form apps
 - ✅ Investigate features of C#:
-  - Parameter: ref, out, params
+  - Parameter: ref, in, out, params
   - Statements: yield, try - catch, checked/unchecked, using
+  - Method overloading
+  - Data struct: constructed type, struct & class
+  - Delegate
+  - Attribute, reflection
 - ✅ Multi-threading programming
   - lock
 - ✅ OOP:
-  - inheritance, polymorphism
+  - inheritance, polymorphism (abstract, override)
   - static/instance methods
+  - List: constructor, properties, indexer, event, operators overloading
+  - interface: public / explicit interface members
 
 ---
 
