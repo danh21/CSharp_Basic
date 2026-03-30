@@ -38,6 +38,13 @@ class Program
         Console.WriteLine($"{first}, {second}, {third}");
     }
 
+    // 7. IN param — pass by reference but READ-ONLY, cannot modify
+    static void InParam(in int x)
+    {
+        // x = 99; // ← compile error: cannot assign to 'in' param
+        Console.WriteLine($"In:       x = {x}");
+    }
+
     static void Main()
     {
         // 1. VALUE
@@ -63,5 +70,10 @@ class Program
 
         // 6. NAMED
         Order(third: "C", first: "A", second: "B");    // A, B, C
+
+        // 7. IN
+        int d = 42;
+        InParam(in d);                                  // d = 42 (read-only, never changed)
+        Console.WriteLine($"After In: d = {d}");        // d = 42 (unchanged)
     }
 }
