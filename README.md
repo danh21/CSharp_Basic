@@ -27,6 +27,7 @@
 ## ✨ Features
 
 - ✅ Manipulate form apps
+- ✅ Data structure & algorithms (Number, Array, String, Stack)
 - ✅ Investigate features of C#:
   - Parameter: ref, in, out, params
   - Statements: yield, try - catch, checked/unchecked, using
