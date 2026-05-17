@@ -6,13 +6,16 @@ class Program
 {
     static void Main()
     {
-        var worker = new Worker("Alice", hoursPerMonth: 160, ratePerHour: 15.50m);
-        var junior = new JuniorManager("Bob", baseSalary: 3000m, monthlyBonus: 500m, hoursWorked: 185);
-        var senior = new SeniorManager("Carol", baseSalary: 6000m, monthlyBonus: 1500m, performanceEvaluation: 5.8m);
+        var employees = new Employee[]
+        {
+            new JuniorManager("Bob", baseSalary: 3000m, monthlyBonus: 500m, hoursWorked: 185),
+            new Worker("Alice", hoursPerMonth: 160, ratePerHour: 15.50m),
+            new SeniorManager("Carol", baseSalary: 6000m, monthlyBonus: 1500m, performanceEvaluation: 5.8m)
+        };
 
-        Console.WriteLine(worker); // Worker: Alice, Salary: ...
-        Console.WriteLine(junior); // Bonus paid
-        Console.WriteLine(senior); // Bonus not paid (performance < 6)
+        Console.WriteLine("Employees sorted by gross salary (desc):");
+        foreach (var employee in EmployeeQueries.salaryDescendSort(employees)) 
+            Console.WriteLine(employee);
 
 
 
@@ -28,6 +31,8 @@ class Program
         Console.WriteLine("Students aged 18..24:");
         foreach (var student in StudentQueries.GetNamesAge18To24(students))
             Console.WriteLine(student);
+
+
 
         string str = "THIS is A very STRANGE string, heLLO MY1 N@ME IS_  DANH.";
         Console.WriteLine("Uppercase words:");

@@ -1,3 +1,4 @@
+using School;
 using System;
 
 namespace Company.Payroll
@@ -29,6 +30,14 @@ namespace Company.Payroll
         public override string ToString()
         {
             return $"{GetType().Name}: {Name}, Salary: {GetSalary():C}";
+        }
+    }
+
+    internal static class EmployeeQueries
+    {
+        public static IEnumerable<Employee> salaryDescendSort(IEnumerable<Employee> employees)
+        {
+            return employees.OrderByDescending(e => e.GetSalary());
         }
     }
 }
