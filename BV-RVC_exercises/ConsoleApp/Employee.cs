@@ -39,5 +39,11 @@ namespace Company.Payroll
         {
             return employees.OrderByDescending(e => e.GetSalary());
         }
+
+        public static IEnumerable<Employee> maxSalary(IEnumerable<Employee> employees)
+        {
+            var maxSalary = employees.Max(e => e.GetSalary());
+            return employees.Where(e => e.GetSalary() == maxSalary);
+        }
     }
 }
