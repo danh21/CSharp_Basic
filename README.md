@@ -42,6 +42,7 @@
   - static/instance methods
   - List: constructor, properties, indexer, event, operators overloading
   - interface: public / explicit interface members
+- ✅ LINQ
 
 ---
 
