@@ -45,5 +45,10 @@ namespace Company.Payroll
             var maxSalary = employees.Max(e => e.GetSalary());
             return employees.Where(e => e.GetSalary() == maxSalary);
         }
+
+        public static decimal avgSalary(IEnumerable<Employee> employees)
+        {
+            return employees.Average(e => e.GetSalary());
+        }
     }
 }

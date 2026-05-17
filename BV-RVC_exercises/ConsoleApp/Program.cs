@@ -1,6 +1,7 @@
 using Company.Payroll;
 using School;
 using String_;
+using System.Runtime.Intrinsics.X86;
 
 class Program
 {
@@ -21,6 +22,8 @@ class Program
         Console.WriteLine("\nLargest gross salary: ");
         foreach (var employee in EmployeeQueries.maxSalary(employees))
             Console.WriteLine(employee);
+
+        Console.WriteLine($"\nAverage gross salary: {EmployeeQueries.avgSalary(employees):C}");
 
 
 
